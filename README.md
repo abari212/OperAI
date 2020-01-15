@@ -1,7 +1,7 @@
 # OperAI
 Operational AI
 
-OperAI is an operational artificial Intelligence initiative launched to develop AI applications and IoT tools with embedded AI to speed up operational processes. OperAI has expertise on developing AI based tools that helped in speeding up discovery and delivery processes. Such processes usually take substantial amount of time and resources, involving multi-step procedures spanning over several years.
+OperAI is an operational artificial Intelligence initiative launched to develop AI/ML-based applications and IoT tools with embedded AI to speed up operational processes. OperAI has expertise on developing AI based tools that helped in speeding up discovery and delivery processes. Such processes usually take substantial amount of time and resources, involving multi-step procedures spanning over several years.
 
 The AI based applications and methodologies developed in the past, involving image and numerical data, are currently used in research and development. The results of these ML/AI based methodologies are considered as breakthroughs and are published in highly ranked journals and recommended books.
  
