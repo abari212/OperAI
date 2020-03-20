@@ -1,8 +1,6 @@
 # OperAI
 Operational AI 
 
-OperAI works with partners and academia to develop both practical math-based solutions along with their theoretical mathematical frameworks as a backing for their effectiveness, for organisations and industries within the sustainability perspective. With today's unprecedented growth of the Internet of things (IoT) and connected devices, massive data streams are being generated at the edges of the cloud. Operational AI helps to speed up and streamline operational processes at these edges.
-
 The need to carry out real-time analytics at the edge of the cloud is driven by the rapid proliferation of IoT and sensors devices along with the increase of machine to machine communication, Timing is becoming crucial  for streamlining operational processes at these edges (IoTs), such as those related to self-driving vehicles and autonomous ​robots.
 
 OperAI works with partners to develop IoT devices and streamline operational processes on real-time by leveraging big data, machine learning and artificial intelligence, at the edges. OperAI has expertise on preparing and developing Big Data/ML/AI tools that helped in speeding up discovery and delivery processes, with results considered as breakthroughs. These tools are used in research and development (R&D), including international research organisations and development agencies as well as industries, in light of industry 4.0.
