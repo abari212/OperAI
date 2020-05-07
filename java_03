@@ -1,4 +1,6 @@
 
+// file upload
+
 Load:jscriptstudio.js;
 <p id="myfilecontent"></p>
 <script>
