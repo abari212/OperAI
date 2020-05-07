@@ -1,4 +1,7 @@
 
+http://shiny.rstudio.com.s3-website-us-east-1.amazonaws.com/articles/js-build-widget.html by
+017 RStudio Inc.
+
 var gaugeData = {'data': 75.0}
   
 	// create a chart and set options
