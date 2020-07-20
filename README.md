@@ -1,7 +1,7 @@
 # OperAI
 Operational AI - OperAI - https://www.operai.ca/
 
-OperAI works with partners to develop the Internet of Things (IoT) devices and streamline operational processes on real-time by leveraging big data, machine learning, artificial intelligence and 5G technology, at the edges of the Cloud. 
+OperAI works with partners, from academia and industry, to develop the Internet of Things (IoT) devices and streamline operational processes on real-time by leveraging big data, machine learning, artificial intelligence and 5G technology, at the edges of the Cloud. 
 
 The need to carry out real-time analytics at the edges of the cloud is driven by the rapid proliferation of IoT and sensors devices along with the increase of machine to machine communication. Timing is becoming crucial  for streamlining operational processes at these edges (IoTs), such as those related to self-driving vehicles and autonomous ​robots.
 
