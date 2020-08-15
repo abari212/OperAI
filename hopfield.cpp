@@ -1,4 +1,4 @@
-// hopfield 
+// hopfield model 
 // hopfield model - Non-linear programming ref (Steeb 1999)
 
 #include <iostream.h>
