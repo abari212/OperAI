@@ -3,13 +3,13 @@ Operational AI - OperAI - https://www.operai.ca/
 
 OperAI works with partners, from academia and industry, to develop the Internet of Things (IoT) devices, AI-based and Quantum-based innovative solutions to streamline operational processes on real-time by leveraging big data, artificial intelligence and quantum technology, at the edge and in the Cloud. 
 
-The need to carry out real-time analytics at the edges of the cloud is driven by the rapid proliferation of IoT and sensors devices along with the increase of machine to machine communication. Timing is becoming crucial  for streamlining operational processes at these edges (IoTs), such as those related to self-driving vehicles and autonomous ​robots.
+The need to carry out real-time analytics at the edges of the cloud is driven by the rapid proliferation of IoT and sensors devices along with the increase of machine to machine communication. Timing is becoming crucial for streamlining operational processes at these edges (IoTs), such as those related to self-driving vehicles and autonomous ​robots.
 
                                                -------------------------
                                                
 •	OperAI helps to carry out real-time analytics and streamline operational activities by leveraging Big Bata, Machine Learning, Artificial Intelligence and Quantum technologies using different platforms. 
 
-•	OperAI focuses on operational data at the edges or networked IoT devices, the fog, to process and analyse data streams on real-time, whether as a signal, image or textual data.  
+•	OperAI focuses on operational data at the edges or networked IoT devices, the fog and the cloud to process and analyse data streams on real-time, whether as a signal, image or textual data.  
 
 •	OperAI works with partners in the industry, research and academia in the realm of industry 4.0 for more accurate, efficient, inclusive and environmentally friendly operational processes at the edges, with people in the loop.
 
